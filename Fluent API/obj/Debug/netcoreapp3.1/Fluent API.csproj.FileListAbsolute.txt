@@ -1,0 +1,54 @@
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Fluent API.deps.json
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Fluent API.runtimeconfig.json
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Fluent API.runtimeconfig.dev.json
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Fluent API.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Fluent API.pdb
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.csprojAssemblyReference.cache
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.AssemblyInfoInputs.cache
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.AssemblyInfo.cs
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.csproj.CoreCompileInputs.cache
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.csproj.CopyComplete
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.dll
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.pdb
+/Users/minhtri/Documents/Dev/RiderProjects/Entity Framwork/Fluent API/obj/Debug/netcoreapp3.1/Fluent API.genruntimeconfig.cache
